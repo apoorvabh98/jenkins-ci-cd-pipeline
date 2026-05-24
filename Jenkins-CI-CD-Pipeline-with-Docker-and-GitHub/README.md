@@ -159,7 +159,5 @@ Run the Jenkins job and verify the successful execution of the pipeline.
 <img width="1366" height="768" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/3ec55d8e-0d34-439c-a8d5-179e14501e56" />
 
 
-![Screenshot (11)](https://github.com/harshartz/Jenkins-project/assets/130890384/1ffd9035-951d-4ced-89a2-84b6c5c7f6e0)
-
 *Application is running, and whenever a developer commits changes to the GitHub repository, it will automatically get deployed to the application.*
 
